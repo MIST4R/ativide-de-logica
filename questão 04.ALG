@@ -1,7 +1,7 @@
 Algoritmo "semnome"
-// Disciplina   : [Linguagem e Lógica de Programação]
+// Disciplina   : [Linguagem e LÃ³gica de ProgramaÃ§Ã£o]
 // Professor   : Antonio Carlos Nicolodi
-// Descrição   : Aqui você descreve o que o programa faz! (função)
+// DescriÃ§Ã£o   : Aqui vocÃª descreve o que o programa faz! (funÃ§Ã£o)
 // Autor(a)    : Nome do(a) aluno(a)
 // Data atual  : 30/08/2023
 Var
@@ -12,13 +12,13 @@ Var
    valor2 : real
    valortotal : real
    precofinal : real
-   // Seção de Declarações das variáveis
+   // SeÃ§Ã£o de DeclaraÃ§Ãµes das variÃ¡veis
 inicio
    escreval(" digite a quatidade de morangos em kilos")
    leia(morango)
    limpatela
 
-   escreval(" digite a quantidade de maçãs em kilos")
+   escreval(" digite a quantidade de maÃ§Ã£s em kilos")
    leia(maca)
    limpatela
 
@@ -43,7 +43,7 @@ inicio
    fimse
 
    escreval(" quantidade de morango em kilos: ", morango)
-   escreval(" quantidade de maçãs em kilos: ",maca)
+   escreval(" quantidade de maÃ§Ã£s em kilos: ",maca)
    escreval(" valor total a pagar: ",valortotal)
    
 Fimalgoritmo
